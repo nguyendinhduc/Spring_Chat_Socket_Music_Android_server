@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">DemoFragment</string>
+    <string name="register_under"><u>Register</u></string>
+</resources>
